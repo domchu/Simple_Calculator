@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.page-container {
+  text-align: center;
+  margin: auto;
+}
+
+input {
+  margin: 5px;
+  padding: 7px;
+  font-size: 20px;
+  width: 150px;
+}
+
+.result {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+
+.page-container {
+  margin-top: 20px;
+}
+
+.calbtn {
+  border: 1px solid;
+  padding: 7px;
+  margin: 5px;
+  background-color: lightgrey;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.calbtn:hover {
+  background-color: black;
+  color: #fff;
+}
+
+.operator {
+  border: 1px solid;
+  padding: 7px;
+  margin: 5px;
+  font-size: 20px;
+  background-color: lightgrey;
+}
+
+.operator:hover {
+  background-color: black;
+  color: #fff;
+}
+/*# sourceMappingURL=styles.css.map */
